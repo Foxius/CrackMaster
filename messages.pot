@@ -1,0 +1,73 @@
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-04-07 10:46+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: core/logic.py:41
+#, python-brace-format
+msgid "Crack! 🎉 Total: {}"
+msgstr ""
+
+#: core/logic.py:43
+#, python-brace-format
+msgid "On cooldown! ⏳ Wait {} sec"
+msgstr ""
+
+#: core/logic.py:49
+msgid "Ready to crack! 🚀"
+msgstr ""
+
+#: core/logic.py:51
+#, python-brace-format
+msgid "Cooldown: {} sec ⏰"
+msgstr ""
+
+#: core/logic.py:57
+msgid "Fingers recharged! 💪 Crack again!"
+msgstr ""
+
+#: ui/interface.py:45
+msgid "Crack! 💥"
+msgstr ""
+
+#: ui/interface.py:52 ui/interface.py:100
+msgid "⚙️ Settings"
+msgstr ""
+
+#: ui/interface.py:68 ui/interface.py:74
+#, python-brace-format
+msgid "Cracks: {}"
+msgstr ""
+
+#: ui/interface.py:82 ui/interface.py:111
+#, python-brace-format
+msgid "Cooldown: {} sec"
+msgstr ""
+
+#: ui/interface.py:84
+msgid "60 sec ⏱️"
+msgstr ""
+
+#: ui/interface.py:87 ui/interface.py:121
+#, python-brace-format
+msgid "Language: {}"
+msgstr ""
+
+#: ui/interface.py:90
+msgid "Change language 🌐"
+msgstr ""
+
